@@ -1,4 +1,7 @@
 
+
+ <img align="left" alt="Carlos' LinkedIN" width="100%" height="50px" src="https://www.wallpapertip.com/wmimgs/38-382055_red-pattern.jpg" />
+
 # 👋Hi! I'm Carlos
 
 <a href="linkedin.com/in/carlos-garcía-6b7a4a189">
