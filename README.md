@@ -1,6 +1,6 @@
 
 
- <img align="left" alt="Carlos' LinkedIN" width="100%" height="50px" src="https://www.wallpapertip.com/wmimgs/38-382055_red-pattern.jpg" />
+ <img align="left" alt="Carlos' LinkedIN" width="100%" height="10px" src="/patron git.jpg" />
 
 # 👋Hi! I'm Carlos
 
